@@ -3,7 +3,7 @@
 # (^_^) - spkirich:
 # To build all lectures at once.
 
-all: lec-01.pdf
+all: lec-01.pdf lec-02.pdf
 
 # (^_^) - spkirich:
 # To build a specific lecture.
